@@ -124,5 +124,5 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-  programmer_hash[:grace_hopper][:known_for].push("Assembly")
+  programmer_hash[:dennis_ritchie][:languages].push("Assembly")
 end
